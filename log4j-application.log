@@ -1,0 +1,6 @@
+2023-12-16 17:09:33,013  INFO [main] TC_LoginTest:23 - url is opened
+ 2023-12-16 17:09:33,430  INFO [main] TC_LoginTest:27 - username is enetered
+ 2023-12-16 17:17:36,204  INFO [main] eBanking:20 - before url open
+ 2023-12-16 17:17:44,934  INFO [main] eBanking:22 - url is opened
+ 2023-12-16 17:17:45,286  INFO [main] eBanking:26 - username is enetered
+ 
